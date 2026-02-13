@@ -9,7 +9,7 @@ lang: bg
 book:
   title: "Въведение в линейната оптимизация"
   author: "Бойко Амаров"
-  date: "4/02/2024"
+  date: last-modified
   
   chapters:
     - index.qmd
