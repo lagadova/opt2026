@@ -6,4 +6,5 @@
 [{{< var url >}}]({{< var url >}}){style="font-size:2em"}
 
 ![](figures/qr_code.png)
+
 :::
